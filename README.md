@@ -14,7 +14,7 @@ Dissertation/
 ├── Chapter2/
 │   └── Chapter 2 figure code.R
 ├── Simulation-Study/
-│   └── Chapter 5 Simulation Study Code UPDATED.R
+│   └── Chapter 5 Simulation Study Code.R
 └── Real-data Application/
     ├── Real-data application on PRIME dataset.R
     ├── Create Github Demo Subset from PRIME dataset.R
