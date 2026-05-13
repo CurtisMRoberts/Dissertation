@@ -26,4 +26,4 @@ Dissertation/
 
 The original PRIME clinical trial dataset is not included in this repository because it is restricted-access clinical trial data.
 
-The file `prime_full_demo_50.csv` is a privacy-preserved demonstration subset. Subject identifiers have been replaced and observed tumour-burden values have been perturbed. This file is provided only to illustrate the data structure and code workflow; hence, it will not reproduce the numerical results reported in the dissertation.
+The file `prime_full_demo_50.csv` is a privacy-preserved demonstration subset. Subject identifiers have been replaced and added noise has been placed on the observed tumour-burden values. This file is provided only to illustrate the data structure and code workflow; hence, it will not reproduce the numerical results reported in the dissertation.
